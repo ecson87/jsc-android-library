@@ -58,7 +58,7 @@ afterEvaluate {
                 from components.release
                 groupId = "com.github.ecson87"
                 artifactId = "jsc-android-library"
-                version = '1.0.0'
+                version = '1.0.3'
             }
         }
     }
